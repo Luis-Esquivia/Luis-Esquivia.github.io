@@ -26,3 +26,6 @@ function SelectText(element) {
       }
   }
 }
+<script>
+AOS.init();
+</script>
